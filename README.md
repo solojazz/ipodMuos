@@ -13,7 +13,7 @@ A theme inspired by the iPod Classic era of Apple products. Made by Emma Alyx Wu
 ### Installation
 
 1. Download the latest version from [releases](releases)
-2. Copy `iPod Classic.muxthm` to either of the following locations:
+2. Copy `iPod.muxthm` to either of the following locations:
    * SD1/Archive
    * SD2/Archive
 3. Install the theme via Archive Manager
