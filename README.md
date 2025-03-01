@@ -10,7 +10,7 @@ A theme inspired by the iPod Classic era of Apple products. Made by Emma Alyx Wu
 * 640x480 resolution (RG40XXV/H, RG35XX+/2024/SP, RG28XX)
 
 ### Installation
-1. Download the latest version from [releases](releases)
+1. Download the [latest release](../../releases/latest)
 2. Copy `iPod.muxthm` to either of the following locations:
    * SD1/Archive
    * SD2/Archive
