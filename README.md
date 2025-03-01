@@ -12,11 +12,11 @@ A theme inspired by the iPod Classic era of Apple products. Made by Emma Alyx Wu
 
 ### Installing
 
-1. Download the latest from [releases](releases)
-3. Copy `iPod.muxthm` to either of the following locations:
+1. Download the latest version from [releases](releases)
+2. Copy `iPod.muxthm` to either of the following locations:
    * SD1/Archive
    * SD2/Archive
-4. Install the theme via Archive Manager
+3. Install the theme via Archive Manager
 
 ## Proposed enhancements
 Some requests suggested by the community:
