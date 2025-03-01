@@ -10,7 +10,7 @@ A theme inspired by the iPod Classic era of Apple products. Made by Emma Alyx Wu
 * Pixie 2502.0 or greater
 * 640x480 resolution (RG40XXV/H, RG35XX+/2024/SP, RG28XX)
 
-### Installing
+### Installation
 
 1. Download the latest version from [releases](releases)
 2. Copy `iPod Classic.muxthm` to either of the following locations:
