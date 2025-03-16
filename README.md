@@ -18,6 +18,7 @@ A theme inspired by the iPod Classic era of Apple products. Made by Emma Alyx Wu
 
 ## Proposed enhancements
 Some requests suggested by the community:
+* HDMI support (@teeawgo)
 * RG34XX support (@fade)
 * Dark Theme (@eider)
 * iPod click wheel sounds (@eider)
